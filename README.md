@@ -29,6 +29,7 @@ To run this game, you need:
 - An IDE or text editor capable of running Java (e.g., Eclipse, IntelliJ IDEA, or NetBeans)
 
 ## Gameplay video
-https://github.com/user-attachments/assets/bc73a1a1-dd5c-4f1e-b716-1776f92da640
+https://github.com/user-attachments/assets/90993d0a-24c1-4284-96d6-11582cf217af
+
 
 
