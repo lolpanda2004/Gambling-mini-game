@@ -28,3 +28,7 @@ To run this game, you need:
 - Java Development Kit (JDK) 8 or higher
 - An IDE or text editor capable of running Java (e.g., Eclipse, IntelliJ IDEA, or NetBeans)
 
+## Gameplay video
+https://github.com/user-attachments/assets/bc73a1a1-dd5c-4f1e-b716-1776f92da640
+
+
